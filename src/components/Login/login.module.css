@@ -1,0 +1,41 @@
+
+.container {
+    /* border-radius: solid black 10px; */
+    display: block;
+    margin: auto;
+    margin-top: 13%;
+    text-align: center;
+    /* justify-content: center; */
+    background-color: rgb(193, 195, 194);
+    width: 500px;
+    height: 280px;
+    border-radius: 20px;
+  }
+  .googleL {
+    background-color: beige;
+    width: 250px;
+    height: 30px;
+    border-radius: 10px;
+    margin-bottom: 0px;
+  }
+  .input {
+    margin: 10px;
+    margin-top: 0px;
+    padding-left: 5px;
+    width: 200px;
+    height: 25px;
+    border-radius: 10px;
+  }
+  .but {
+    border-radius: 10px;
+    padding: 8px 20px;
+    background-color: rgb(189, 221, 221);
+  }
+  p {
+    margin-top: 0px;
+    margin-bottom: 0px;
+  }
+  a {
+    color: black;
+  }
+  

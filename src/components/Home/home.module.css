@@ -1,0 +1,105 @@
+.container {
+    background-color: white;
+    display: flex;
+    flex-direction: row;
+    justify-content: center;
+    width: 100%;
+  }
+  
+  .backgroundContainer {
+    background-color: white;
+    width: 1280px;
+    height: 832px;
+    position: relative;
+  }
+  
+  .image {
+    position: absolute;
+    width: 300px;
+    height: 300px;
+    top: 350px;
+    left: 821px;
+    object-fit: cover;
+  }
+  
+  .infoContainer {
+    position: absolute;
+    width: 469px;
+    height: 412px;
+    top: 294px;
+    left: 128px;
+    background-color: white;
+  }
+  
+  .buttonContainer {
+    position: relative;
+    width: 310px;
+    height: 154px;
+    top: 129px;
+    left: 80px;
+  }
+  
+  .joinButton {
+    background-color: Lightgrey;
+    padding: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 20px;
+    height: 50px;
+    font-family: 'Inter', Helvetica;
+    font-size: 22px;
+    color: black;
+    position: absolute;
+    top: 13px;
+    left: 32px;
+  }
+  
+  .text {
+    font-family: 'Inter', Helvetica;
+    font-size: 32px;
+    color: black;
+    position: absolute;
+    top: 0;
+    left: 0;
+  }
+  
+  .headerContainer {
+    position: absolute;
+    width: 657px;
+    height: 49px;
+    top: 18px;
+    left: 563px;
+  }
+  
+  .appName {
+    font-family: 'Inter', Helvetica;
+    font-size: 28px;
+    color: black;
+    position: absolute;
+    top: 7px;
+    left: 0;
+  }
+  
+  .goButtonContainer {
+    position: absolute;
+    width: 179px;
+    height: 49px;
+    top: 0;
+    left: 478px;
+  }
+  
+  .goButton {
+    background-color: Lightgrey;
+    padding: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+    border-radius: 20px;
+    height: 50px;
+    font-family: 'Inter', Helvetica;
+    font-size: 22px;
+    color: black;
+    position: absolute;
+    top: 13px;
+    left: 32px;
+  }
+  
